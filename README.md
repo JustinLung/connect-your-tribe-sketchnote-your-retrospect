@@ -1,32 +1,16 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🎉 Restrospective
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Tijdens de les van Charley, hebben wij in de klas onze retrospective gesketchnote. Hierbij hebben wij een tijdlijn gemaakt waarbij wij de "STARR-reflectie" eigenlijk in beeld brengen. Hierbij heb ik ook de bijpassende gedragscriteria getekend.
 
-## Inhoudsopgave
+![Retrospect]()
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## 🥮 Metafoor
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Verder heb ik een metafoor getekend waarbij je kan zien hoe het voor mij ging deze sprint. Als uitleg krijg hierbij dat ik dacht dat het eerst heel makkelijk ging om met Javscript ging werken omdat ik dacht dat ik een goede basis zal hebben. Toch kwam ik in deze sprint achter dat er wat obstakels kwamen zoals bepaalde errors die ik niet kon oplossen. Gelukkig door veel hulp te vragen aan klasgenoten en docenten (begeleiding vragen), dat ik toch aan de top van de berg ben gekomen.
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+![Metafoor]()
 
-## Installatie
-
-## Gebruik
-
-## Bronnen
-
-## Licentie
+## 🅿 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
